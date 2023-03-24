@@ -1,5 +1,5 @@
 Para que funcione, debe haberse creado el usuario alumno con contraseña alumno.
-Y también la BD users.
+Y también la BD "dbjoes" con la siguiente tabla:
 
 CREATE TABLE users (
   ID int(11) NOT NULL AUTO_INCREMENT,
