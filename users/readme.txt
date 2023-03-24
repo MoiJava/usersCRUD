@@ -16,3 +16,4 @@ INSERT INTO users (ID,NAME,AGE,CITY) VALUES
  (3,'Pedro',25,'Zaragoza');
 
 Parámetros de conexión por defecto: 127.0.0.1 y puerto 3307
+(MV en modo NAT con VirtualBox)
